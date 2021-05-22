@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\OpenTK.dll
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\OpenTK.pdb
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\OpenTK.xml
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\ASUS\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
